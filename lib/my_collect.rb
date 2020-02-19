@@ -1,4 +1,6 @@
 def my_collect(name_collection)
+  i = 0
+  name_collection = []
 
   name_collection = []
   while i < array.length
