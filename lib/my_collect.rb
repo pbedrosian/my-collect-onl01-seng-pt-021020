@@ -1,6 +1,5 @@
 def my_collect(array)
   new_array = []
-  yeild[new_collection.upcase]
 
 end
 
